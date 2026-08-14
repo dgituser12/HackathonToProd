@@ -4,10 +4,19 @@ A hands-on workshop that teaches AI engineering by following the journey of a fi
 
 Using **Google Gemini** and **Google Colab**, you'll build **HelpDeskAI** while learning the engineering practices required to move beyond prompt engineering.
 
+## Start Here
+
+Before starting Chapter 00, begin with:
+
+**Workshop Opening — Fall in Love with the Problem, Not the Solution**
+
+This short opening introduces the problem-first engineering mindset used throughout the workshop.
+
 ## Workshop Roadmap
 
 | Notebook | Engineering Question |
 |----------|----------------------|
+| Workshop Opening | Fall in love with the problem, not the solution |
 | Chapter 00 | Can it answer? |
 | Chapter 01 | Do we understand it? |
 | Chapter 02 | Will it survive reality? |
@@ -23,6 +32,11 @@ Using **Google Gemini** and **Google Colab**, you'll build **HelpDeskAI** while 
 - Reliability and error handling
 - AI evaluation and prompt improvement
 - Production readiness and deployment thinking
+- Problem-first engineering and continuous improvement
+
+Each chapter also includes a **Problem Lens** connecting the engineering work back to the principle:
+
+> **Fall in love with the problem, not the solution.**
 
 ## Prerequisites
 
@@ -32,10 +46,14 @@ Using **Google Gemini** and **Google Colab**, you'll build **HelpDeskAI** while 
 
 ## How to Use
 
-Open the notebooks in order and work through each chapter.
+Open the notebooks in order:
 
-```
-Chapter 00 → Chapter 01 → Chapter 02 → Chapter 03 → Chapter 04 → Epilogue
+```text
+Workshop Opening
+      ↓
+Chapter 00 → Chapter 01 → Chapter 02 → Chapter 03 → Chapter 04
+      ↓
+Epilogue
 ```
 
 Each notebook builds on the previous one.
