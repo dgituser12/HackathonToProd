@@ -43,6 +43,8 @@ Each chapter also includes a **Problem Lens** connecting the engineering work ba
 - Basic Python
 - A Google account
 - A Gemini API key from Google AI Studio
+- Familiarity with Jupyter Notebooks/Colab
+          colab.research.google.com
 
 ## How to Use
 
